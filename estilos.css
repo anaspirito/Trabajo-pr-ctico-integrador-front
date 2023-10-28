@@ -47,6 +47,13 @@
 .card .informacion, p{
     padding: 10px;
 }
+.botontickets{
+    color: white;
+    text-decoration: none;
+}
+.botontickets:hover{
+    color: rgb(166, 253, 165);
+}
 #row1{
     width: 80%;
 }
