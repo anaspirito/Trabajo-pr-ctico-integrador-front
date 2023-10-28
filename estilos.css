@@ -32,6 +32,9 @@
     text-align: end;
     margin-right: 80px;
 }
+.carousel-control-prev, .carousel-control-next{
+    width: 90px;
+}
 .card-title{
     font-size: 30px;
 }
